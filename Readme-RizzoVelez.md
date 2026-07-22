@@ -268,3 +268,45 @@
 - Generar código para mostrar una controversia con C#
 - Modificación de una clase
 ---
+**Grupo F:** Software Ideas Modeler
+
+**Expositor Barrionuevo:**
+
+**Teoría:**
+- Funcionalidades: Generacion de codigo, soporte de estereotipos y pergiles UML
+- Validacion de modelos para hacer un seguimiento antes de generar codigo
+- Herramienta basada en los archivos que genera
+  
+**Practica:**
+  
+- Creacion de diagrama de casos de uso
+  
+**Expositor Alcivar:**
+
+**Teoría:**
+
+- Introduccion de la herramienta Software Ideas Modeler
+- Util para la aplicacion de modelos
+
+**Practica:**
+
+- Definicion de requisitos
+- Creacion de diagrama de requisitos
+
+**Expositor Quintero:**
+
+**Teoría:**
+- Ventajas: Aceleracion en contruccion inicial de backend y estructura de clases
+- Permite ver si un diagrama cumple con estandares UML
+- Desventajas: Tener conocimiento previo
+- Caso de estudio de camaronera para generar requisitos y luego diagramas
+- La herramienta usa otras Herramientas Case
+- Sirve en el desarrollo de vida del software desde que se creo haste que se implementa
+
+**Practica:**
+
+- Generación de código con C#
+- Explicacion de como crear requisitos por su prioridad
+- Realizacion de codigo con diagrama de clases
+- Creacion de clases
+---
